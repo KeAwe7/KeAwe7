@@ -15,6 +15,9 @@ Welcome to my GitHub profile, where I explore the world of **CTF challenges** an
 Check out my collection of CTF writeups, where I document my solutions and thought processes from various CTF events:
 - [**OSINT CTF Writeups**](https://github.com/KeAwe7/CTF-Writeups)
 
+  TryHackMe:
+  ![tryhackme stats](https://raw.githubusercontent.com/Keawe/Keawe/master/assets/thm_propic.png)
+
 ### 💡 **Other Projects**
 - 💡 **Enhanced Alarm Clock with DS1302 RTC and LCD1602 Display**: This project implements an alarm clock using an 8051 microcontroller, a DS1302 real-time clock (RTC) module, and an LCD1602 display.
 <!-- 
