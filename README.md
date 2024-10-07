@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Keane;AKA+Keawe!)](https://git.io/typing-svg)
 
-# Hi there, I'm Keane, aka Keawe! 👋
+<!-- # Hi there, I'm Keane, aka Keawe! 👋 -->
 
 Welcome to my GitHub profile, where I explore the world of **CTF challenges** and **Computer Engineering**!
 
@@ -18,7 +18,7 @@ Check out my collection of CTF writeups, where I document my solutions and thoug
 - [**OSINT CTF Writeups**](https://github.com/KeAwe7/CTF-Writeups)
 
   TryHackMe:
-  ![tryhackme stats](https://raw.githubusercontent.com/KeAwe7/KeAwe7/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Keawe.png" alt="TryHackMe">
 
 ### 💡 **Other Projects**
 - 💡 **Enhanced Alarm Clock with DS1302 RTC and LCD1602 Display**: This project implements an alarm clock using an 8051 microcontroller, a DS1302 real-time clock (RTC) module, and an LCD1602 display.
