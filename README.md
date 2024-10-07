@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Keane;AKA+Keawe!)](https://git.io/typing-svg)
+
 # Hi there, I'm Keane, aka Keawe! 👋
 
 Welcome to my GitHub profile, where I explore the world of **CTF challenges** and **Computer Engineering**!
@@ -5,7 +7,7 @@ Welcome to my GitHub profile, where I explore the world of **CTF challenges** an
 ## 🧠 About Me
 
 - 🎓 **Computer Engineering** undergraduate with a passion for technology, problem-solving, and ethical hacking.
-- 🕵️ **OSINT enthusiast** – love unraveling mysteries and finding answers in data. <!-- , much like my favorite detective **Sherlock Holmes**. -->
+- 🕵️ **OSINT enthusiast** – love unraveling mysteries and finding answers in data.
 - 💻 I'm working on various **Capture The Flag (CTF)** challenges, with a focus on **OSINT**, but I also explore other areas like **cryptography** and **forensics**.
 - 📚 Constantly learning and applying new things in **machine learning**, **security research**, and **software development**.
   
