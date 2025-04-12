@@ -25,7 +25,7 @@ Check out my collection of CTF writeups, where I document my solutions and thoug
 <!-- 
 - 📚 **RFID Smart Attendance System**: Automating attendance with RFID technology and microcontrollers. 
 -->
-
+<!--
 ### 🧩 **Machine Learning & Research**
 I’m also diving into the world of machine learning, exploring topics like **image segmentation** and training models for real-world applications.
 
@@ -37,7 +37,7 @@ I’m also diving into the world of machine learning, exploring topics like **im
 - **CTF Skills**: OSINT, Cryptography, Web/Network Exploitation*, Linux Privilege Escalation*
 
   **Beginner level*
-
+-->
 <!--
 ## 🔗 Let's Connect
 
@@ -47,7 +47,7 @@ I’m also diving into the world of machine learning, exploring topics like **im
 -->
 
 ---
-
+<!--
 👀 **Fun fact**: I'm a huge fan of **Sherlock Holmes**, and I see CTFs as my way of stepping into his shoes in the digital world!
 -->
 
